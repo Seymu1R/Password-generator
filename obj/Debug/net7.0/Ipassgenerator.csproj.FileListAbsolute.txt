@@ -1,0 +1,15 @@
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\bin\Debug\net7.0\Ipassgenerator.exe
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\bin\Debug\net7.0\Ipassgenerator.deps.json
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\bin\Debug\net7.0\Ipassgenerator.runtimeconfig.json
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\bin\Debug\net7.0\Ipassgenerator.dll
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\bin\Debug\net7.0\Ipassgenerator.pdb
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.csproj.AssemblyReference.cache
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.AssemblyInfoInputs.cache
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.AssemblyInfo.cs
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.csproj.CoreCompileInputs.cache
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.dll
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\refint\Ipassgenerator.dll
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.pdb
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\Ipassgenerator.genruntimeconfig.cache
+C:\Users\SeymurManafov\Desktop\ipassgenerator\Ipassgenerator\obj\Debug\net7.0\ref\Ipassgenerator.dll
